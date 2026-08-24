@@ -1,7 +1,7 @@
 ---
-title: "O que é Computação Visual?"
-date: 2026-08-24
-categories: [Tecnologia, Computacao]
+Titulo: "O que é Computação Visual?"
+Data: 2026-08-24
+categorias: [Tecnologia, Computacao]
 tags: [computacao visual, visao computacional, processamento de imagens]
 ---
 
