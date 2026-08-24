@@ -1,7 +1,7 @@
 ---
-title: "Computação Gráfica, Compugrafia ou Compugráfica?"
-date: 2026-08-24
-categories: [Tecnologia, Computacao]
+Titulo: "Computação Gráfica, Compugrafia ou Compugráfica?"
+data: 2026-08-24
+categorias: [Tecnologia, Computacao]
 tags: [computacao grafica, compugrafia, terminologia]
 ---
 
