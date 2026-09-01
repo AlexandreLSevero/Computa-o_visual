@@ -1,6 +1,5 @@
 ---
-layout: default
-title: "Início - Computação Visual & Gráfica"
+titulo: "Início - Computação Visual & Gráfica"
 ---
 
 # Bem-vindo ao Blog de Computação Visual
